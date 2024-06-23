@@ -18,8 +18,10 @@
   <li>To win the game, all cards must be matched and all must be on their front-side with their letters revealed.</li>
 </ul>
 <h3>Two letters that do not match flipped</h3>
-![Screenshot (3836)](https://github.com/Mschlei-48/MemoryGame/assets/83508295/891044a2-8cab-4f10-9b21-b5390e72c0b6)
+![Screenshot (3834)](https://github.com/Mschlei-48/MemoryGame/assets/83508295/964ecfdc-7fdf-4603-957a-63def20cb537)
+
 <h3>Two letters that match flipped and remain on their front-size</h3>
-![Screenshot (3834)](https://github.com/Mschlei-48/MemoryGame/assets/83508295/30a8a0de-f919-4d0e-80d4-898f559d93ed)
+![Screenshot (3834)](https://github.com/Mschlei-48/MemoryGame/assets/83508295/046c4c1d-97a8-4975-b715-8edfefe0a012)
+
 
 

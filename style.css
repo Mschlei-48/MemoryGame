@@ -1,0 +1,75 @@
+.main-container {
+    /* height: 100%;
+    padding-bottom: 50%; */
+    height: 100%;
+    padding-bottom: 0%;
+}
+
+main {
+    /* padding-bottom: 30%;
+    padding-top: 8%;
+    background-image: url("assets/background-img.png");
+    background-size: cover;
+    color: white; */
+    /* padding-bottom:0%;
+    padding-top:0%; */
+    background-image:url("assets/background-img.png");
+    background-size: cover;
+    color:white;
+}
+
+
+h1 {
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    margin-top: 0px;
+}
+
+ul {
+    color: white;
+    columns: 4;
+    margin-left: 10%;
+    margin-top: 8%;
+}
+
+.cards {
+    background-color: white;
+    padding: 16%;
+    cursor: pointer;
+    width: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2em;
+    visibility: hidden; 
+}
+
+.card-items {
+    margin-bottom: 10%;
+    list-style-type: none;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    width:150px;
+    cursor: pointer;
+}
+
+.card-items.flipped .cards,
+.card-items.matched .cards {
+    visibility: visible; 
+}
+
+.card-items.flipped {
+    background-color: yellow;
+    color: black;
+}
+
+.card-items.matched {
+    background-color: lightgreen;
+    color: black;
+}
+
+
